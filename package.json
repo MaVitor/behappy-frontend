@@ -1,10 +1,10 @@
 {
-  "name": "behappywith.me",
+  "name": "behappy",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Mateus VITOR",
-    "email": "mateus12312333@gmail.com"
+    "name": "Daniel Victor",
+    "email": "daniel.victor9@hotmail.com"
   },
   "engines": {
     "npm": "6.7.0",
@@ -19,12 +19,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "echo Skip build on Heroku"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
-  "heroku-run-build-script": true
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
