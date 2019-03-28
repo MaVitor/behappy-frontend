@@ -1,3 +1,3 @@
 ## POS 2019 - Mateus Vitor
 
-* Website: https:/hawaii.herokuapp.com/
+* site: https:/thehashy.herokuapp.com/
