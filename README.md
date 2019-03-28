@@ -1,3 +1,3 @@
-## POS 2019 - Daniel Victor
+## POS 2019 - Mateus Vitor
 
-* Website: https://allaska.herokuapp.com/
+* Website: https:/hawaii.herokuapp.com/
